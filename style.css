@@ -1,0 +1,81 @@
+body {
+    font-family: consolas;
+}
+
+.section {
+  background-color: #77a3b6;
+  color: #fff;
+  padding: 10px;
+  border-radius: 15px;
+}
+
+.div1 {
+    background-color: #CA95F7;
+    text-align: center;
+    margin-top: 50px;
+    padding: 25px;
+    color: #fff;
+    border-radius: 15px;
+}
+
+.div2 {
+    background-color: #38b2ac;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 100px;
+    padding: 25px;
+    color: #fff;
+    border-radius: 15px;
+}
+
+.div3 {
+    background-color: #6377f7;
+    text-align: center;
+    margin-top: 20px;
+    margin-right: 100px;
+    padding: 25px;
+    color: #fff;
+    border-radius: 15px;
+}
+
+.div4 {
+    background-color: #efb236;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    padding: 25px;
+    color: #fff;
+    border-radius: 15px;
+}
+
+.div5 h1 {
+    text-align: center;
+    background-color: #CA95F7;
+    margin: 50px ; /*Margin single value*/
+    border-radius: 15px;
+    padding: 20px;
+}
+
+.div6 h1 {
+    text-align: center;
+    background-color: #e5f46f;
+    margin: 30px 50px ; /*Margin double value*/
+    border-radius: 15px;
+    padding: 20px;
+}
+
+.div7 h1 {
+    text-align: center;
+    background-color: #5aeb75;
+    margin: 20px 50px 50px ; /*Margin triple value*/
+    border-radius: 15px;
+    padding: 20px;
+}
+
+.div8 {
+    text-align: center;
+    background-color: #eb5a6b;
+    margin: 25px 50px 75px 50px; /*Margin quadruple value*/
+    border-radius: 15px;
+    padding: 10px;
+}
